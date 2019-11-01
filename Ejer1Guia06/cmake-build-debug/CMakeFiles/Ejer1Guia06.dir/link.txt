@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Ejer1Guia06.dir/main.c.o  -o Ejer1Guia06 
